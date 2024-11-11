@@ -1,0 +1,9 @@
+results/
+
+training.log
+
+ch_BERT_final_model/
+
+ch_BERT_large_model/
+
+ch_test_model/
